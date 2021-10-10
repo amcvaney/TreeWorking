@@ -1,6 +1,5 @@
 //Abigayle McVaney
 //Data Structures
-//Lab4.c
 
 
 #include <math.h>
