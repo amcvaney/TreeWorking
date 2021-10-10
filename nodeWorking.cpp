@@ -1,6 +1,5 @@
 //Abigayle McVaney
 //Data Structures
-//Lab 5 C++
 
 
 #include <iostream>
